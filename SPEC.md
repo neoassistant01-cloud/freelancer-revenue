@@ -140,3 +140,36 @@
 7. ✅ Can delete individual entries
 8. ✅ Responsive layout works on mobile/tablet/desktop
 9. ✅ Build completes successfully to dist/ folder
+
+---
+
+## 5. Enhanced Features (Added post-spec)
+
+### Search & Filter
+- Search bar to filter entries by client name or project
+- Source filter buttons (All, Upwork, Fiverr, Direct, Other)
+- Real-time filtering updates all views
+- Entry count indicator shows active filter results
+
+### Visual Improvements
+- Source badges with icons (💼 Upwork, 🎯 Fiverr, 🤝 Direct, 📋 Other)
+- Color-coded source indicators in entry list
+- Updated form button states with icons
+- Improved search input with icon
+
+---
+
+## 6. Acceptance Criteria (Updated)
+
+1. ✅ App loads with dashboard showing all revenue metrics
+2. ✅ Can add new income entries with all required fields
+3. ✅ Entries persist in LocalStorage (survives refresh)
+4. ✅ Monthly revenue chart displays last 6 months
+5. ✅ Top clients ranked by total earnings
+6. ✅ Recent entries displayed chronologically
+7. ✅ Can delete individual entries
+8. ✅ Responsive layout works on mobile/tablet/desktop
+9. ✅ Build completes successfully to dist/ folder
+10. ✅ Search functionality filters entries in real-time
+11. ✅ Source filter buttons work correctly
+12. ✅ Source badges display correctly in entry list
